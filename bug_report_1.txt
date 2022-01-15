@@ -1,0 +1,15 @@
+Bug report:
+- ID: 1;
+- Summary: product catalog is not displayed after push on the button "Catalog";
+- Environment: Windows 10, Chrome  97.0.4692.71;
+- Str:  1. go to website;
+        2. push on the button "Catalog".
+- Actual Result: product catalog is not displayed;
+- Expected Result: product catalog displays correctly;
+- Attachment: screenshot; 
+- Severity: Critical;
+- Priority: High;
+- Status: in working; 
+- Reporter: Anastasiya Kovaleva; 
+- Assignee: Ivan Ivanov;
+- Version: 1.
