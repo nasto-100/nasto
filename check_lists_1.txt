@@ -1,0 +1,24 @@
+Buld - 1;
+Environment: Windows 10, Chrome  97.0.4692.71;
+Test date: 15.01.22 - 20.01.22;
+Tester: Anastasiya Kovaleva.
+Cheking:
+* Authorization:
+1) existing user. Result: 
+2) fictional user. Result:
+3) empty registration field. Result: 
+* Working with a catalog:
+1) display all categories. Result:
+2) all products. Result:
+3) list of products by category. Result:
+4) search for a specific product by name. Result:
+* Work with the basket:
+1) adding. Result: 
+2) deletion. Result:
+3) transition to payment. Result:
+* Payment:
+1) card payment Visa. Result:
+2) card payment MasterCard. Result:
+3) cash payment. Result:
+4) payment by bonuses. Result: 
+
